@@ -1,0 +1,25 @@
+Refactoring Commands Built-In Visual Studio
+Refactorings
+
+Encapsulate Field Ctrl+R, Ctrl+E
+
+Extract Interface Ctrl+R, Ctrl+I
+
+Extract Method Ctrl+R, Ctrl+M 
+
+Remove Parameters Ctrl+R, Ctrl+V 
+
+Rename Ctrl+R, Ctrl+R 
+
+Reorder Parameters Ctrl+R, Ctrl+O
+
+Navigate To Ctrl+T or Ctrl+
+
+Format Selection Ctrl+K, Ctrl+F
+
+Go To Declaration Ctrl+F12
+
+Go To Definition F12
+
+A full list of commands: http://visualstudioshortcuts.com/2017/
+

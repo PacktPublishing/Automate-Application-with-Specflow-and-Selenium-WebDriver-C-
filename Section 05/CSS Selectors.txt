@@ -1,0 +1,5 @@
+https://www.w3schools.com/cssref/trysel.asp
+
+https://www.testingexcellence.com/css-selectors-selenium-webdriver/
+
+https://www.w3schools.com/html/default.asp
