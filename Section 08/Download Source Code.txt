@@ -1,4 +1,0 @@
-Download Source Code
-Download the source code:
-
-1. TrueOrFalseMVVM - the solution where we implement the TrueOrFalse game

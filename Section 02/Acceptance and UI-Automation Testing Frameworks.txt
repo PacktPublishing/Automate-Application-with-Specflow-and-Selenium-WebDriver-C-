@@ -1,5 +1,0 @@
-https://specflow.org/
-
-https://github.com/TestStack/White
-
-https://www.selenium.dev/

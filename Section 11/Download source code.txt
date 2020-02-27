@@ -1,4 +1,0 @@
-Download Source Code
-Download the source code:
-
-1. TDD-Course - the main part of the course
